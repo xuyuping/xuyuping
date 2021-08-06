@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xuyuping
+- 👋 Hi, I’m @xuyuping,Patrick Xu.
 - 👀 I’m interested in making and sharing new technology.
-- 🌱 I’m currently learning Robots.
+- 🌱 I’m currently learning robot technology.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Connect with me through Wechat or email 394103703@qq.com.
 
 <!---
 xuyuping/xuyuping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
