@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xuyuping,Patrick Xu.
+- 👋 Hi, I’m @xuyuping, Patrick Xu.
 - 👀 I’m interested in making and sharing new technology.
-- 🌱 I’m currently learning robot technology.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning all kinds of robot technology.
+- 💞️ I’m looking to collaborate on sharing vlog.
 - 📫 Connect to me through Wechat or email to 394103703@qq.com.
 
 <!---
